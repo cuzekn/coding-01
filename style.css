@@ -31,7 +31,7 @@ header h1 {
 .top {
   height: 400px;
   background-color: #de7ded;
-  background-image: url(images/kv-img.jpg);
+  background-image: url(./images/kv-img.jpg);
   background-size: cover;
   position: relative;
 }
